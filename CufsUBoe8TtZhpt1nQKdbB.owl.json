@@ -1,0 +1,3859 @@
+{
+  "_comment": "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.1.7]",
+  "header": {
+    "languages": [
+      "en"
+    ],
+    "baseIris": [
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+      "http://webprotege.stanford.edu",
+      "http://www.w3.org/2000/01/rdf-schema"
+    ],
+    "prefixList": {
+      "owl": "http://www.w3.org/2002/07/owl#",
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "xsd": "http://www.w3.org/2001/XMLSchema#",
+      "": "http://webprotege.stanford.edu/project/CufsUBoe8TtZhpt1nQKdbB#",
+      "xml": "http://www.w3.org/XML/1998/namespace",
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+    },
+    "iri": "http://webprotege.stanford.edu/project/CufsUBoe8TtZhpt1nQKdbB"
+  },
+  "namespace": [],
+  "settings": {
+    "global": {
+      "zoom": "0.40",
+      "translation": [
+        461.11,
+        300.53
+      ],
+      "paused": false
+    },
+    "gravity": {
+      "classDistance": 200,
+      "datatypeDistance": 120
+    },
+    "filter": {
+      "checkBox": [
+        {
+          "id": "datatypeFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "objectPropertyFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "subclassFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "disjointFilterCheckbox",
+          "checked": true
+        },
+        {
+          "id": "setoperatorFilterCheckbox",
+          "checked": false
+        }
+      ],
+      "degreeSliderValue": "0"
+    },
+    "modes": {
+      "checkBox": [
+        {
+          "id": "pickandpinModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "nodescalingModuleCheckbox",
+          "checked": true
+        },
+        {
+          "id": "compactnotationModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "colorexternalsModuleCheckbox",
+          "checked": true
+        }
+      ],
+      "colorSwitchState": false
+    }
+  },
+  "class": [
+    {
+      "id": "0",
+      "type": "owl:Class"
+    },
+    {
+      "id": "19",
+      "type": "owl:Class"
+    },
+    {
+      "id": "20",
+      "type": "owl:Class"
+    },
+    {
+      "id": "46",
+      "type": "owl:Class"
+    },
+    {
+      "id": "53",
+      "type": "owl:Class"
+    },
+    {
+      "id": "5",
+      "type": "owl:Class"
+    },
+    {
+      "id": "69",
+      "type": "owl:Class"
+    },
+    {
+      "id": "38",
+      "type": "owl:Class"
+    },
+    {
+      "id": "29",
+      "type": "owl:Class"
+    },
+    {
+      "id": "2",
+      "type": "owl:Class"
+    },
+    {
+      "id": "30",
+      "type": "owl:Class"
+    },
+    {
+      "id": "95",
+      "type": "owl:Class"
+    },
+    {
+      "id": "35",
+      "type": "owl:Class"
+    },
+    {
+      "id": "104",
+      "type": "owl:Class"
+    },
+    {
+      "id": "18",
+      "type": "owl:Class"
+    },
+    {
+      "id": "15",
+      "type": "owl:Class"
+    },
+    {
+      "id": "55",
+      "type": "owl:Class"
+    },
+    {
+      "id": "73",
+      "type": "owl:Class"
+    },
+    {
+      "id": "98",
+      "type": "owl:Class"
+    },
+    {
+      "id": "27",
+      "type": "owl:Class"
+    },
+    {
+      "id": "7",
+      "type": "owl:Class"
+    },
+    {
+      "id": "40",
+      "type": "owl:Class"
+    },
+    {
+      "id": "3",
+      "type": "owl:Class"
+    },
+    {
+      "id": "22",
+      "type": "owl:Class"
+    },
+    {
+      "id": "17",
+      "type": "owl:Class"
+    },
+    {
+      "id": "83",
+      "type": "owl:Class"
+    },
+    {
+      "id": "65",
+      "type": "owl:Class"
+    },
+    {
+      "id": "135",
+      "type": "owl:Class"
+    },
+    {
+      "id": "106",
+      "type": "owl:Class"
+    },
+    {
+      "id": "75",
+      "type": "owl:Class"
+    },
+    {
+      "id": "58",
+      "type": "owl:Class"
+    },
+    {
+      "id": "8",
+      "type": "owl:Class"
+    },
+    {
+      "id": "24",
+      "type": "owl:Class"
+    },
+    {
+      "id": "49",
+      "type": "owl:Class"
+    },
+    {
+      "id": "25",
+      "type": "owl:Class"
+    },
+    {
+      "id": "13",
+      "type": "owl:Class"
+    }
+  ],
+  "classAttribute": [
+    {
+      "id": "0",
+      "iri": "http://webprotege.stanford.edu/RcAbwkdaQPe2304Wkrr2K0",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RcAbwkdaQPe2304Wkrr2K0",
+        "en": "6.051401 Biotechnology"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        209.53,
+        4.92
+      ]
+    },
+    {
+      "id": "19",
+      "iri": "http://webprotege.stanford.edu/R7HxPlXFfvfrK648jl8pSwJ",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R7HxPlXFfvfrK648jl8pSwJ",
+        "en": "6.030510 Commodity science and trade entrepreneurship"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1162.51,
+        -130.65
+      ]
+    },
+    {
+      "id": "20",
+      "iri": "http://webprotege.stanford.edu/R9cVFM2FebeZANvhVKG6BHY",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R9cVFM2FebeZANvhVKG6BHY",
+        "en": "6.140103 Tourism"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1242.67,
+        -36.67
+      ]
+    },
+    {
+      "id": "46",
+      "iri": "http://webprotege.stanford.edu/R8RulZDDTEOddO6VbdwsXck",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8RulZDDTEOddO6VbdwsXck",
+        "en": "6.050702 Electromechanics"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        237.58,
+        876.39
+      ]
+    },
+    {
+      "id": "53",
+      "iri": "http://webprotege.stanford.edu/Rfxogsja4Z2LpxFPUda9if",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "Rfxogsja4Z2LpxFPUda9if",
+        "en": "6.050502 Engineering mechanics"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1038.82,
+        1093.58
+      ]
+    },
+    {
+      "id": "5",
+      "iri": "http://webprotege.stanford.edu/R9idm3dQygDFn7HYlMXQlnD",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R9idm3dQygDFn7HYlMXQlnD",
+        "en": "6.060101 Construction"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        192.97,
+        116.16
+      ]
+    },
+    {
+      "id": "69",
+      "iri": "http://webprotege.stanford.edu/RBdHSAS66ytWrhM9r9tMiR7",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RBdHSAS66ytWrhM9r9tMiR7",
+        "en": "6.030102 Psychology"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1438.48,
+        341.27
+      ]
+    },
+    {
+      "id": "38",
+      "iri": "http://webprotege.stanford.edu/R7lCXfp5giRV5weQ76zKqeC",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R7lCXfp5giRV5weQ76zKqeC",
+        "en": "6.080101 Geodesy, cartography and land management '],"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        450.69,
+        -126.06
+      ]
+    },
+    {
+      "id": "29",
+      "iri": "http://webprotege.stanford.edu/RCfsDnYehDfYDJr5GkirVCd",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCfsDnYehDfYDJr5GkirVCd",
+        "en": "economics and management"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1120.24,
+        -435.02
+      ]
+    },
+    {
+      "id": "2",
+      "iri": "http://webprotege.stanford.edu/RXiB0blG6eXY3OXwpVZKGp",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RXiB0blG6eXY3OXwpVZKGp",
+        "en": "natural sciences"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        187.78,
+        -139.66
+      ]
+    },
+    {
+      "id": "30",
+      "iri": "http://webprotege.stanford.edu/Rup4RWSU5t0QaWYITfG4v5",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "Rup4RWSU5t0QaWYITfG4v5",
+        "en": "6.030504 Economics of the enterprise"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        848.6,
+        -152.44
+      ]
+    },
+    {
+      "id": "95",
+      "iri": "http://webprotege.stanford.edu/RCA74hG2q5yw0StG4Ze9Iuz",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCA74hG2q5yw0StG4Ze9Iuz",
+        "en": "6.070101 Transport technologies"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1074.18,
+        998.36
+      ]
+    },
+    {
+      "id": "35",
+      "iri": "http://webprotege.stanford.edu/R9KpS0YrwOCfKzRPqYMWJwt",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R9KpS0YrwOCfKzRPqYMWJwt",
+        "en": "6.030508 Finance and credit"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1123.79,
+        -32.22
+      ]
+    },
+    {
+      "id": "104",
+      "iri": "http://webprotege.stanford.edu/RY0GC12RMzmVKnEqt0TyS9",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RY0GC12RMzmVKnEqt0TyS9",
+        "en": "6.040302 Informatics"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        111.08,
+        335.39
+      ]
+    },
+    {
+      "id": "18",
+      "iri": "http://webprotege.stanford.edu/RCOJDVgHXqjF7d2jY5udwRT",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCOJDVgHXqjF7d2jY5udwRT",
+        "en": "electronics and computer engineering"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        -64.31,
+        530.53
+      ]
+    },
+    {
+      "id": "15",
+      "iri": "http://webprotege.stanford.edu/R70YmDWaXjdKHCTCuTpb8ad",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R70YmDWaXjdKHCTCuTpb8ad",
+        "en": "Institute of Electromechanics, Energy Saving and Control Systems"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        267.25,
+        1065.67
+      ]
+    },
+    {
+      "id": "55",
+      "iri": "http://webprotege.stanford.edu/RC3T8NnYUnbYkCeI0F9XN7R",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RC3T8NnYUnbYkCeI0F9XN7R",
+        "en": "6.030601 Management"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        762.41,
+        -241.05
+      ]
+    },
+    {
+      "id": "73",
+      "iri": "http://webprotege.stanford.edu/RBF7ANywdfKBhGHCzOMG9T1",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RBF7ANywdfKBhGHCzOMG9T1",
+        "en": "6.010203 Human health"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1290.18,
+        738.6
+      ]
+    },
+    {
+      "id": "98",
+      "iri": "http://webprotege.stanford.edu/RDQIKlzs2WATDwXS7ZbjJ2I",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RDQIKlzs2WATDwXS7ZbjJ2I",
+        "en": "6.050403 Engineering materials science"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        697.51,
+        1067.61
+      ]
+    },
+    {
+      "id": "27",
+      "iri": "http://webprotege.stanford.edu/R8BcwtGQzY4Humjj7vPBPTq",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8BcwtGQzY4Humjj7vPBPTq",
+        "en": "6.040106 Ecology, environmental protection and balanced nature management"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        336.93,
+        -114.75
+      ]
+    },
+    {
+      "id": "7",
+      "iri": "http://webprotege.stanford.edu/RCBKKlbZ258AZBhLqHa7oWw",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCBKKlbZ258AZBhLqHa7oWw",
+        "en": "Institute of Mechanics and Transport"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        943.8,
+        1270.39
+      ]
+    },
+    {
+      "id": "40",
+      "iri": "http://webprotege.stanford.edu/R8oUkWNWVqXVxJzlKXqCWpA",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8oUkWNWVqXVxJzlKXqCWpA",
+        "en": "6.030507 Marketing"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1117.21,
+        -370.37
+      ]
+    },
+    {
+      "id": "3",
+      "iri": "http://webprotege.stanford.edu/R8AWvh0xGUNTMEjhmpg6MZh",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8AWvh0xGUNTMEjhmpg6MZh",
+        "en": "KrNU faculty"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        750.65,
+        449.8
+      ]
+    },
+    {
+      "id": "22",
+      "iri": "http://webprotege.stanford.edu/RDdQviKkfNiZ3qSVdGc8L1C",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RDdQviKkfNiZ3qSVdGc8L1C",
+        "en": "6.050503 Mechanical engineering"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        884.88,
+        1151.11
+      ]
+    },
+    {
+      "id": "17",
+      "iri": "http://webprotege.stanford.edu/RDiLIWsntL4nRbc2qM6HsZf",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RDiLIWsntL4nRbc2qM6HsZf",
+        "en": "6.050101 Computer Science"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        140.57,
+        680.51
+      ]
+    },
+    {
+      "id": "83",
+      "iri": "http://webprotege.stanford.edu/R0CYVJkBdg3IqksMpO3FAi",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R0CYVJkBdg3IqksMpO3FAi",
+        "en": "6.050201 Systems engineering"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        320.83,
+        985.97
+      ]
+    },
+    {
+      "id": "65",
+      "iri": "http://webprotege.stanford.edu/RDhrnnYzJ6ASY8s2adgbFJK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RDhrnnYzJ6ASY8s2adgbFJK",
+        "en": "6.050902 Radio electronic devices"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        47.12,
+        427.59
+      ]
+    },
+    {
+      "id": "135",
+      "iri": "http://webprotege.stanford.edu/RDPP74p6PgpLsDD6NKm6Nfg",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RDPP74p6PgpLsDD6NKm6Nfg",
+        "en": "6.030401 Jurisprudence"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1349.8,
+        810.74
+      ]
+    },
+    {
+      "id": "106",
+      "iri": "http://webprotege.stanford.edu/R8Kd1Y0vPGSNSok0DBfyeCp",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8Kd1Y0vPGSNSok0DBfyeCp",
+        "en": "6.030303 Publishing and editing"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1427.61,
+        680.8
+      ]
+    },
+    {
+      "id": "75",
+      "iri": "http://webprotege.stanford.edu/RCESO5p42loCegW22mAgpge",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCESO5p42loCegW22mAgpge",
+        "en": "6.050102 Computer Engineering"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        60.34,
+        598.31
+      ]
+    },
+    {
+      "id": "58",
+      "iri": "http://webprotege.stanford.edu/R8dy2ka66CM9c6D1Hq2RZId",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8dy2ka66CM9c6D1Hq2RZId",
+        "en": "6.030509 Accounting and auditing"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        879.88,
+        -256.97
+      ]
+    },
+    {
+      "id": "8",
+      "iri": "http://webprotege.stanford.edu/RCxxToNwV1bDhw4GkHAdst7",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCxxToNwV1bDhw4GkHAdst7",
+        "en": "6.070106 Road transport"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        741.24,
+        1147.25
+      ]
+    },
+    {
+      "id": "24",
+      "iri": "http://webprotege.stanford.edu/RBjTD4gjwZfRd5tnSt9fKV2",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RBjTD4gjwZfRd5tnSt9fKV2",
+        "en": "6.020303 Philology"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1358.42,
+        389.94
+      ]
+    },
+    {
+      "id": "49",
+      "iri": "http://webprotege.stanford.edu/R7x43iJD43WN74w3Zmzn6Je",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R7x43iJD43WN74w3Zmzn6Je",
+        "en": "6.020105 Documentation and information activities"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1462.5,
+        489.82
+      ]
+    },
+    {
+      "id": "25",
+      "iri": "http://webprotege.stanford.edu/RtCJeOvW28yI9dhgln5cTo",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RtCJeOvW28yI9dhgln5cTo",
+        "en": "law, humanities and social sciences"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        1610.02,
+        624.23
+      ]
+    },
+    {
+      "id": "13",
+      "iri": "http://webprotege.stanford.edu/R90XHwc093BhgaThwZXcy3v",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R90XHwc093BhgaThwZXcy3v",
+        "en": "6.050701 Electrical engineering and electrical technologies"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        450.63,
+        1048.04
+      ]
+    }
+  ],
+  "property": [
+    {
+      "id": "1",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "4",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "6",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "9",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "10",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "11",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "12",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "14",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "16",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "21",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "23",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "26",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "28",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "31",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "32",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "33",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "34",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "36",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "37",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "39",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "41",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "42",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "43",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "44",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "45",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "47",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "48",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "50",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "51",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "52",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "54",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "56",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "57",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "59",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "60",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "61",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "62",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "63",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "64",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "66",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "67",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "68",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "70",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "71",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "72",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "74",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "76",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "77",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "78",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "79",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "80",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "81",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "82",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "84",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "85",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "86",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "87",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "88",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "89",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "90",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "91",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "92",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "93",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "94",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "96",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "97",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "99",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "100",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "101",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "102",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "103",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "105",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "107",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "108",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "109",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "110",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "111",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "112",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "113",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "114",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "115",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "116",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "117",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "118",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "119",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "120",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "121",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "122",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "123",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "124",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "125",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "126",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "127",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "128",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "129",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "130",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "131",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "132",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "133",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "134",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "136",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "137",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "138",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "139",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "140",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "141",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "142",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "143",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "144",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "145",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "146",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "147",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "148",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "149",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "150",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "151",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "152",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "153",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "154",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "155",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "156",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "157",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "158",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "159",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "160",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "161",
+      "type": "owl:someValuesFrom"
+    },
+    {
+      "id": "162",
+      "type": "owl:someValuesFrom"
+    }
+  ],
+  "propertyAttribute": [
+    {
+      "id": "1",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "2",
+      "range": "3",
+      "pos": [
+        465.36,
+        123.47
+      ]
+    },
+    {
+      "id": "4",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "2",
+      "range": "5",
+      "pos": [
+        12.92,
+        -69.28
+      ]
+    },
+    {
+      "id": "6",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "7",
+      "range": "8",
+      "pos": [
+        775.58,
+        1388.43
+      ]
+    },
+    {
+      "id": "9",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "2",
+      "range": "0",
+      "pos": [
+        27.88,
+        -198.12
+      ]
+    },
+    {
+      "id": "10",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "0",
+      "range": "3",
+      "pos": [
+        462.12,
+        236.09
+      ]
+    },
+    {
+      "id": "11",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "0",
+      "range": "2",
+      "pos": [
+        5.32,
+        -149.09
+      ]
+    },
+    {
+      "id": "12",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "13",
+      "range": "3",
+      "pos": [
+        611.79,
+        765.9
+      ]
+    },
+    {
+      "id": "14",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "13",
+      "range": "15",
+      "pos": [
+        289.47,
+        1248.19
+      ]
+    },
+    {
+      "id": "16",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "17",
+      "range": "18",
+      "pos": [
+        -85.74,
+        732.41
+      ]
+    },
+    {
+      "id": "21",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "7",
+      "range": "22",
+      "pos": [
+        904.59,
+        1428.7
+      ]
+    },
+    {
+      "id": "23",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "24",
+      "range": "25",
+      "pos": [
+        1590.98,
+        450.66
+      ]
+    },
+    {
+      "id": "26",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "27",
+      "range": "2",
+      "pos": [
+        140.39,
+        -302.56
+      ]
+    },
+    {
+      "id": "28",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "29",
+      "range": "30",
+      "pos": [
+        959.21,
+        -366.2
+      ]
+    },
+    {
+      "id": "31",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "24",
+      "range": "3",
+      "pos": [
+        1036.9,
+        431.16
+      ]
+    },
+    {
+      "id": "32",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "27",
+      "range": "3",
+      "pos": [
+        557.72,
+        147.28
+      ]
+    },
+    {
+      "id": "33",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "29",
+      "range": "3",
+      "pos": [
+        960.97,
+        -8.43
+      ]
+    },
+    {
+      "id": "34",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "29",
+      "range": "35",
+      "pos": [
+        1233.27,
+        -267.98
+      ]
+    },
+    {
+      "id": "36",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "29",
+      "range": "20",
+      "pos": [
+        1289.29,
+        -288.42
+      ]
+    },
+    {
+      "id": "37",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "2",
+      "range": "38",
+      "pos": [
+        308.2,
+        -304.54
+      ]
+    },
+    {
+      "id": "39",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "29",
+      "range": "40",
+      "pos": [
+        1244.12,
+        -578.66
+      ]
+    },
+    {
+      "id": "41",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "2",
+      "range": "27",
+      "pos": [
+        189.96,
+        -322.79
+      ]
+    },
+    {
+      "id": "42",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "5",
+      "range": "3",
+      "pos": [
+        457.09,
+        299
+      ]
+    },
+    {
+      "id": "43",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "8",
+      "range": "3",
+      "pos": [
+        714.4,
+        808.17
+      ]
+    },
+    {
+      "id": "44",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "8",
+      "range": "7",
+      "pos": [
+        814.18,
+        1402.95
+      ]
+    },
+    {
+      "id": "45",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "40",
+      "range": "3",
+      "pos": [
+        933.93,
+        39.71
+      ]
+    },
+    {
+      "id": "47",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "40",
+      "range": "29",
+      "pos": [
+        1180.78,
+        -610.34
+      ]
+    },
+    {
+      "id": "48",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "49",
+      "range": "25",
+      "pos": [
+        1730.2,
+        497.86
+      ]
+    },
+    {
+      "id": "50",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "49",
+      "range": "3",
+      "pos": [
+        1112.06,
+        448.8
+      ]
+    },
+    {
+      "id": "51",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "22",
+      "range": "7",
+      "pos": [
+        969.71,
+        1425.03
+      ]
+    },
+    {
+      "id": "52",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "22",
+      "range": "3",
+      "pos": [
+        805.41,
+        805.69
+      ]
+    },
+    {
+      "id": "54",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "29",
+      "range": "55",
+      "pos": [
+        890.68,
+        -489.92
+      ]
+    },
+    {
+      "id": "56",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "29",
+      "range": "19",
+      "pos": [
+        1286.54,
+        -358.17
+      ]
+    },
+    {
+      "id": "57",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "29",
+      "range": "58",
+      "pos": [
+        975.4,
+        -537.69
+      ]
+    },
+    {
+      "id": "59",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "58",
+      "range": "29",
+      "pos": [
+        951.6,
+        -509.54
+      ]
+    },
+    {
+      "id": "60",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "58",
+      "range": "3",
+      "pos": [
+        798.6,
+        88.41
+      ]
+    },
+    {
+      "id": "61",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "20",
+      "range": "29",
+      "pos": [
+        1324.98,
+        -303.66
+      ]
+    },
+    {
+      "id": "62",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "20",
+      "range": "3",
+      "pos": [
+        1027.54,
+        238.07
+      ]
+    },
+    {
+      "id": "63",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "25",
+      "range": "49",
+      "pos": [
+        1748.12,
+        542.34
+      ]
+    },
+    {
+      "id": "64",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "65",
+      "pos": [
+        409.3,
+        447.07
+      ]
+    },
+    {
+      "id": "66",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "2",
+      "pos": [
+        440.84,
+        149.53
+      ]
+    },
+    {
+      "id": "67",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "25",
+      "range": "24",
+      "pos": [
+        1607.63,
+        416.83
+      ]
+    },
+    {
+      "id": "68",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "25",
+      "range": "69",
+      "pos": [
+        1691.75,
+        437.15
+      ]
+    },
+    {
+      "id": "70",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "35",
+      "pos": [
+        915.09,
+        217.54
+      ]
+    },
+    {
+      "id": "71",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "5",
+      "range": "2",
+      "pos": [
+        16.6,
+        -30
+      ]
+    },
+    {
+      "id": "72",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "73",
+      "range": "3",
+      "pos": [
+        1009.77,
+        573.79
+      ]
+    },
+    {
+      "id": "74",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "75",
+      "range": "3",
+      "pos": [
+        402.29,
+        544.84
+      ]
+    },
+    {
+      "id": "76",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "75",
+      "range": "18",
+      "pos": [
+        -211.62,
+        614.03
+      ]
+    },
+    {
+      "id": "77",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "19",
+      "range": "3",
+      "pos": [
+        974.23,
+        166.42
+      ]
+    },
+    {
+      "id": "78",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "38",
+      "range": "2",
+      "pos": [
+        269.54,
+        -309.43
+      ]
+    },
+    {
+      "id": "79",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "73",
+      "range": "25",
+      "pos": [
+        1523.12,
+        778.45
+      ]
+    },
+    {
+      "id": "80",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "19",
+      "range": "29",
+      "pos": [
+        1299.56,
+        -392.52
+      ]
+    },
+    {
+      "id": "81",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "35",
+      "range": "3",
+      "pos": [
+        947.48,
+        242.27
+      ]
+    },
+    {
+      "id": "82",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "83",
+      "range": "3",
+      "pos": [
+        522.5,
+        706.39
+      ]
+    },
+    {
+      "id": "84",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "38",
+      "range": "3",
+      "pos": [
+        624.21,
+        145.94
+      ]
+    },
+    {
+      "id": "85",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "35",
+      "range": "29",
+      "pos": [
+        1189.43,
+        -265.71
+      ]
+    },
+    {
+      "id": "86",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "83",
+      "range": "15",
+      "pos": [
+        134.19,
+        1174.64
+      ]
+    },
+    {
+      "id": "87",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "65",
+      "range": "18",
+      "pos": [
+        -207.07,
+        415.11
+      ]
+    },
+    {
+      "id": "88",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "65",
+      "range": "3",
+      "pos": [
+        390.52,
+        415.87
+      ]
+    },
+    {
+      "id": "89",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "46",
+      "range": "15",
+      "pos": [
+        69.66,
+        1037.08
+      ]
+    },
+    {
+      "id": "90",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "46",
+      "range": "3",
+      "pos": [
+        474.78,
+        654.54
+      ]
+    },
+    {
+      "id": "91",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "30",
+      "range": "3",
+      "pos": [
+        771.73,
+        165.04
+      ]
+    },
+    {
+      "id": "92",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "30",
+      "range": "29",
+      "pos": [
+        928.5,
+        -398.92
+      ]
+    },
+    {
+      "id": "93",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "7",
+      "range": "53",
+      "pos": [
+        1127.72,
+        1327.74
+      ]
+    },
+    {
+      "id": "94",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "7",
+      "range": "95",
+      "pos": [
+        1136.36,
+        1217.66
+      ]
+    },
+    {
+      "id": "96",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "7",
+      "range": "3",
+      "pos": [
+        871.78,
+        881.62
+      ]
+    },
+    {
+      "id": "97",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "7",
+      "range": "98",
+      "pos": [
+        762,
+        1292.42
+      ]
+    },
+    {
+      "id": "99",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "19",
+      "pos": [
+        938.79,
+        156.18
+      ]
+    },
+    {
+      "id": "100",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "17",
+      "pos": [
+        465.21,
+        550.77
+      ]
+    },
+    {
+      "id": "101",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "13",
+      "pos": [
+        607.52,
+        732.61
+      ]
+    },
+    {
+      "id": "102",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "5",
+      "pos": [
+        492.84,
+        291.51
+      ]
+    },
+    {
+      "id": "103",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "30",
+      "pos": [
+        811.25,
+        170.23
+      ]
+    },
+    {
+      "id": "105",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "106",
+      "pos": [
+        1081.68,
+        546.94
+      ]
+    },
+    {
+      "id": "107",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "83",
+      "pos": [
+        554.19,
+        714.77
+      ]
+    },
+    {
+      "id": "108",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "104",
+      "range": "3",
+      "pos": [
+        431.89,
+        368.2
+      ]
+    },
+    {
+      "id": "109",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "104",
+      "range": "18",
+      "pos": [
+        -117.89,
+        335.43
+      ]
+    },
+    {
+      "id": "110",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "58",
+      "pos": [
+        831.4,
+        106.03
+      ]
+    },
+    {
+      "id": "111",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "69",
+      "pos": [
+        1087.55,
+        353.75
+      ]
+    },
+    {
+      "id": "112",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "18",
+      "range": "65",
+      "pos": [
+        -222,
+        465.66
+      ]
+    },
+    {
+      "id": "113",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "18",
+      "range": "104",
+      "pos": [
+        -147.83,
+        361.38
+      ]
+    },
+    {
+      "id": "114",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "98",
+      "range": "3",
+      "pos": [
+        697.56,
+        744.9
+      ]
+    },
+    {
+      "id": "115",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "98",
+      "range": "7",
+      "pos": [
+        737.87,
+        1320.17
+      ]
+    },
+    {
+      "id": "116",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "18",
+      "range": "75",
+      "pos": [
+        -188.35,
+        663.54
+      ]
+    },
+    {
+      "id": "117",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "18",
+      "range": "3",
+      "pos": [
+        314.75,
+        474.31
+      ]
+    },
+    {
+      "id": "118",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "18",
+      "range": "17",
+      "pos": [
+        -118.8,
+        709.19
+      ]
+    },
+    {
+      "id": "119",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "106",
+      "range": "3",
+      "pos": [
+        1089.4,
+        580.54
+      ]
+    },
+    {
+      "id": "120",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "106",
+      "range": "25",
+      "pos": [
+        1676.11,
+        783.11
+      ]
+    },
+    {
+      "id": "121",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "69",
+      "range": "3",
+      "pos": [
+        1099.29,
+        386.93
+      ]
+    },
+    {
+      "id": "122",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "69",
+      "range": "25",
+      "pos": [
+        1674.04,
+        405.4
+      ]
+    },
+    {
+      "id": "123",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "29",
+      "pos": [
+        926.47,
+        -17.99
+      ]
+    },
+    {
+      "id": "124",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "24",
+      "pos": [
+        1033.22,
+        391.42
+      ]
+    },
+    {
+      "id": "125",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "20",
+      "pos": [
+        1004.24,
+        214.97
+      ]
+    },
+    {
+      "id": "126",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "18",
+      "pos": [
+        321.05,
+        509.9
+      ]
+    },
+    {
+      "id": "127",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "46",
+      "pos": [
+        508.83,
+        648.17
+      ]
+    },
+    {
+      "id": "128",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "27",
+      "pos": [
+        544.49,
+        180.79
+      ]
+    },
+    {
+      "id": "129",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "104",
+      "pos": [
+        453.04,
+        397.56
+      ]
+    },
+    {
+      "id": "130",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "15",
+      "range": "83",
+      "pos": [
+        183.96,
+        1214.46
+      ]
+    },
+    {
+      "id": "131",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "15",
+      "range": "13",
+      "pos": [
+        337.41,
+        1251.07
+      ]
+    },
+    {
+      "id": "132",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "53",
+      "range": "7",
+      "pos": [
+        1094.57,
+        1359.75
+      ]
+    },
+    {
+      "id": "133",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "53",
+      "range": "3",
+      "pos": [
+        924.11,
+        769.1
+      ]
+    },
+    {
+      "id": "134",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "25",
+      "range": "3",
+      "pos": [
+        1208.28,
+        524.22
+      ]
+    },
+    {
+      "id": "136",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "25",
+      "range": "106",
+      "pos": [
+        1710.78,
+        747.28
+      ]
+    },
+    {
+      "id": "137",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "25",
+      "range": "135",
+      "pos": [
+        1617.17,
+        824.57
+      ]
+    },
+    {
+      "id": "138",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "25",
+      "range": "73",
+      "pos": [
+        1532.56,
+        815.03
+      ]
+    },
+    {
+      "id": "139",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "15",
+      "range": "3",
+      "pos": [
+        478.38,
+        765.88
+      ]
+    },
+    {
+      "id": "140",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "15",
+      "range": "46",
+      "pos": [
+        83.87,
+        1081.82
+      ]
+    },
+    {
+      "id": "141",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "22",
+      "pos": [
+        827.21,
+        781.02
+      ]
+    },
+    {
+      "id": "142",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "73",
+      "pos": [
+        991.88,
+        608.47
+      ]
+    },
+    {
+      "id": "143",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "49",
+      "pos": [
+        1095.03,
+        479.3
+      ]
+    },
+    {
+      "id": "144",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "75",
+      "pos": [
+        414.38,
+        509.82
+      ]
+    },
+    {
+      "id": "145",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "7",
+      "pos": [
+        836.37,
+        888.04
+      ]
+    },
+    {
+      "id": "146",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "135",
+      "range": "3",
+      "pos": [
+        1054.33,
+        635.32
+      ]
+    },
+    {
+      "id": "147",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "135",
+      "pos": [
+        1032.36,
+        662.61
+      ]
+    },
+    {
+      "id": "148",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "135",
+      "range": "25",
+      "pos": [
+        1591.54,
+        850.36
+      ]
+    },
+    {
+      "id": "149",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "55",
+      "pos": [
+        745.86,
+        108.31
+      ]
+    },
+    {
+      "id": "150",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "95",
+      "range": "7",
+      "pos": [
+        1139.38,
+        1253.54
+      ]
+    },
+    {
+      "id": "151",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "95",
+      "pos": [
+        897.01,
+        706.67
+      ]
+    },
+    {
+      "id": "152",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "95",
+      "range": "3",
+      "pos": [
+        934.98,
+        706.43
+      ]
+    },
+    {
+      "id": "153",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "38",
+      "pos": [
+        611.12,
+        179.34
+      ]
+    },
+    {
+      "id": "154",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "0",
+      "pos": [
+        497.09,
+        225.76
+      ]
+    },
+    {
+      "id": "155",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "8",
+      "pos": [
+        747.71,
+        795.45
+      ]
+    },
+    {
+      "id": "156",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "53",
+      "pos": [
+        887.84,
+        768.72
+      ]
+    },
+    {
+      "id": "157",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "98",
+      "pos": [
+        734.93,
+        736.55
+      ]
+    },
+    {
+      "id": "158",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "17",
+      "range": "3",
+      "pos": [
+        453.04,
+        584.05
+      ]
+    },
+    {
+      "id": "159",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "15",
+      "pos": [
+        509.85,
+        786.76
+      ]
+    },
+    {
+      "id": "160",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "55",
+      "range": "3",
+      "pos": [
+        714.22,
+        102.54
+      ]
+    },
+    {
+      "id": "161",
+      "iri": "http://webprotege.stanford.edu/RCXxYaQhSWaeo54K0CdqXiK",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCXxYaQhSWaeo54K0CdqXiK",
+        "en": "consist of"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "3",
+      "range": "25",
+      "pos": [
+        1199.24,
+        557.96
+      ]
+    },
+    {
+      "id": "162",
+      "iri": "http://webprotege.stanford.edu/RMQJmRfMH8q0KB5MfScHSX",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RMQJmRfMH8q0KB5MfScHSX",
+        "en": "belongs to"
+      },
+      "attributes": [
+        "someValues",
+        "object",
+        "external"
+      ],
+      "domain": "55",
+      "range": "29",
+      "pos": [
+        902.55,
+        -453.98
+      ]
+    }
+  ]
+}
